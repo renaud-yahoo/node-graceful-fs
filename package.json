@@ -1,14 +1,14 @@
 {
-  "name": "graceful-fs",
+  "name": "graceful-fs-yhoo-test",
   "description": "A drop-in replacement for fs, making various improvements.",
-  "version": "4.1.11",
+  "version": "4.1.12",
   "repository": {
     "type": "git",
-    "url": "https://github.com/isaacs/node-graceful-fs"
+    "url": "https://github.com/renaud-yahoo/node-graceful-fs"
   },
   "main": "graceful-fs.js",
   "engines": {
-    "node": ">=0.4.0"
+    "node": ">=8.0.0"
   },
   "directories": {
     "test": "test"
