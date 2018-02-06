@@ -11,7 +11,7 @@ process.chdir(__dirname)
 // Make sure to reserve the stderr fd
 process.stderr.write('')
 
-var num = 4097
+var num = 2078
 var paths = new Array(num)
 
 test('write files', function (t) {
