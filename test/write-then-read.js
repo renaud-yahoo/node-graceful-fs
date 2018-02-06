@@ -9,7 +9,7 @@ process.chdir(__dirname)
 // Make sure to reserve the stderr fd
 process.stderr.write('');
 
-var num = 4097;
+var num = 3678;
 var paths = new Array(num);
 
 test('make files', function (t) {
